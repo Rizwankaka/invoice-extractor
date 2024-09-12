@@ -1,5 +1,5 @@
 ---
-title: Gemini Vision
+title: Invoice Extractor
 emoji: 🔮
 colorFrom: blue
 colorTo: green
